@@ -46,9 +46,13 @@ RTL realization
 
 ### Output:
 ### RTL
+![ex2i](https://user-images.githubusercontent.com/117974950/210356925-d5685552-990f-4a58-b174-daee28a446b7.png)
+![ex2full](https://user-images.githubusercontent.com/117974950/210357061-72bf13fb-a0cb-4bf7-b5c5-2be955aa96e6.png)
+
 ### TIMING DIAGRAM
 
 
 ### TRUTH TABLE 
+![gatesandtruth](https://user-images.githubusercontent.com/117974950/210357116-28cd0063-96ee-4f77-b42d-ee523cccec18.jpg)
 
 ### Result:

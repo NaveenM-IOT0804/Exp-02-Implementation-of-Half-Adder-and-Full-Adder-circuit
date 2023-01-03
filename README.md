@@ -38,8 +38,8 @@ If the output is 1, then the led glows.
 Program:
 /*
 Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+Developed by: NAVEEN M
+RegisterNumber: 22000748
 */
 Logic symbol & Truthtable
 RTL realization
@@ -55,4 +55,4 @@ RTL realization
 ### TRUTH TABLE 
 ![gatesandtruth](https://user-images.githubusercontent.com/117974950/210357116-28cd0063-96ee-4f77-b42d-ee523cccec18.jpg)
 
-### Result:
+### Result: Thus the different digital IC's are studied and the truth table for different logic gates are verified.

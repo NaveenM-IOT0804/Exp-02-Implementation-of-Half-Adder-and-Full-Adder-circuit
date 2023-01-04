@@ -64,6 +64,7 @@ HALF ADDER
 ![Half-Adder-Truth-Table-1](https://user-images.githubusercontent.com/117974950/210536185-a3844eb9-248e-45a2-bb87-8e1a67280c0d.jpg)
 
 FULL ADDER
+
 ![fulladderturthtable](https://user-images.githubusercontent.com/117974950/210536263-4a502462-8cf7-4101-b921-a885fe85e7e7.png)
 
 

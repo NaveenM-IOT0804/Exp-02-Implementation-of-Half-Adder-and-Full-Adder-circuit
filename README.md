@@ -50,9 +50,17 @@ RTL realization
 ![ex2full](https://user-images.githubusercontent.com/117974950/210357061-72bf13fb-a0cb-4bf7-b5c5-2be955aa96e6.png)
 
 ### TIMING DIAGRAM
+HALF ADDER
+![halfadderwaveform](https://user-images.githubusercontent.com/117974950/210536342-646f63a4-e454-4a4b-b250-b55dcf1c6fc7.png)
+FULL ADDER
+![fulladderwaveform](https://user-images.githubusercontent.com/117974950/210536387-39004b62-57ec-4028-a0a2-f3572417420c.png)
 
 
 ### TRUTH TABLE 
-![gatesandtruth](https://user-images.githubusercontent.com/117974950/210357116-28cd0063-96ee-4f77-b42d-ee523cccec18.jpg)
+HALF ADDER
+![Half-Adder-Truth-Table-1](https://user-images.githubusercontent.com/117974950/210536185-a3844eb9-248e-45a2-bb87-8e1a67280c0d.jpg)
+FULL ADDER
+![fulladderturthtable](https://user-images.githubusercontent.com/117974950/210536263-4a502462-8cf7-4101-b921-a885fe85e7e7.png)
+
 
 ### Result: Thus the different digital IC's are studied and the truth table for different logic gates are verified.
